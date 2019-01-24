@@ -50,7 +50,7 @@
 
 ### 手动
 
-1. 手动下载或clone最新版本qcloudsms_php代码
+1. 手动下载或clone最新版本Pstndemo代码
 2. 直接调用app.php文件使用即可，或者放入项目中include使用。
 
 ## 用法
